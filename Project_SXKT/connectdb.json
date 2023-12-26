@@ -1,0 +1,5 @@
+{
+  "_config_db": {
+    "sxkt": "server = localhost;user id=data1;password=Aa123456;database=sxktdb;Port=3306;Pooling=false"
+  }
+}

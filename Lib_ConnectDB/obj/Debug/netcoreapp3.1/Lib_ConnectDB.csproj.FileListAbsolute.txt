@@ -1,0 +1,16 @@
+F:\KHN\Project_SXKT\Project_SXKT\Lib_ConnectDB\bin\Debug\netcoreapp3.1\Lib_ConnectDB.deps.json
+F:\KHN\Project_SXKT\Project_SXKT\Lib_ConnectDB\bin\Debug\netcoreapp3.1\Lib_ConnectDB.runtimeconfig.json
+F:\KHN\Project_SXKT\Project_SXKT\Lib_ConnectDB\bin\Debug\netcoreapp3.1\Lib_ConnectDB.runtimeconfig.dev.json
+F:\KHN\Project_SXKT\Project_SXKT\Lib_ConnectDB\bin\Debug\netcoreapp3.1\Lib_ConnectDB.dll
+F:\KHN\Project_SXKT\Project_SXKT\Lib_ConnectDB\bin\Debug\netcoreapp3.1\Lib_ConnectDB.pdb
+F:\KHN\Project_SXKT\Project_SXKT\Lib_ConnectDB\bin\Debug\netcoreapp3.1\Lib_Models.dll
+F:\KHN\Project_SXKT\Project_SXKT\Lib_ConnectDB\bin\Debug\netcoreapp3.1\Lib_Models.pdb
+F:\KHN\Project_SXKT\Project_SXKT\Lib_ConnectDB\obj\Debug\netcoreapp3.1\Lib_ConnectDB.csproj.AssemblyReference.cache
+F:\KHN\Project_SXKT\Project_SXKT\Lib_ConnectDB\obj\Debug\netcoreapp3.1\Lib_ConnectDB.GeneratedMSBuildEditorConfig.editorconfig
+F:\KHN\Project_SXKT\Project_SXKT\Lib_ConnectDB\obj\Debug\netcoreapp3.1\Lib_ConnectDB.AssemblyInfoInputs.cache
+F:\KHN\Project_SXKT\Project_SXKT\Lib_ConnectDB\obj\Debug\netcoreapp3.1\Lib_ConnectDB.AssemblyInfo.cs
+F:\KHN\Project_SXKT\Project_SXKT\Lib_ConnectDB\obj\Debug\netcoreapp3.1\Lib_ConnectDB.csproj.CoreCompileInputs.cache
+F:\KHN\Project_SXKT\Project_SXKT\Lib_ConnectDB\obj\Debug\netcoreapp3.1\Lib_ConnectDB.csproj.CopyComplete
+F:\KHN\Project_SXKT\Project_SXKT\Lib_ConnectDB\obj\Debug\netcoreapp3.1\Lib_ConnectDB.dll
+F:\KHN\Project_SXKT\Project_SXKT\Lib_ConnectDB\obj\Debug\netcoreapp3.1\Lib_ConnectDB.pdb
+F:\KHN\Project_SXKT\Project_SXKT\Lib_ConnectDB\obj\Debug\netcoreapp3.1\Lib_ConnectDB.genruntimeconfig.cache

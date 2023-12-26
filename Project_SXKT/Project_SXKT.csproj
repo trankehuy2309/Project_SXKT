@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Lib_ConnectDB\Lib_ConnectDB.csproj" />
+    <ProjectReference Include="..\Lib_Models\Lib_Models.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Update="connectdb.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+</Project>

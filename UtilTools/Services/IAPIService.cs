@@ -1,0 +1,17 @@
+﻿
+using Lib_Models;
+using Lib_Models.Models;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace UtilTools.Services
+{
+    public interface IAPIService
+    {
+        API_Result create(tbllotdata dataobj);
+       
+    }
+}

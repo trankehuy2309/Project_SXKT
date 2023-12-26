@@ -1,0 +1,6 @@
+F:\KHN\Project_SXKT\Project_SXKT\Lib_Models\bin\Debug\Lib_Models.dll
+F:\KHN\Project_SXKT\Project_SXKT\Lib_Models\bin\Debug\Lib_Models.pdb
+F:\KHN\Project_SXKT\Project_SXKT\Lib_Models\obj\Debug\Lib_Models.csproj.AssemblyReference.cache
+F:\KHN\Project_SXKT\Project_SXKT\Lib_Models\obj\Debug\Lib_Models.csproj.CoreCompileInputs.cache
+F:\KHN\Project_SXKT\Project_SXKT\Lib_Models\obj\Debug\Lib_Models.dll
+F:\KHN\Project_SXKT\Project_SXKT\Lib_Models\obj\Debug\Lib_Models.pdb
